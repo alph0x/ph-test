@@ -1,0 +1,8 @@
+${PODS_ROOT}/Target Support Files/Pods-ProductHunt-ProductHuntUITests/Pods-ProductHunt-ProductHuntUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Haptica/Haptica.framework
+${BUILT_PRODUCTS_DIR}/Hue/Hue.framework
+${BUILT_PRODUCTS_DIR}/MapleBacon/MapleBacon.framework
+${BUILT_PRODUCTS_DIR}/Moya/Moya.framework
+${BUILT_PRODUCTS_DIR}/SkeletonView/SkeletonView.framework
+${BUILT_PRODUCTS_DIR}/SwiftyUtils/SwiftyUtils.framework

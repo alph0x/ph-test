@@ -1,0 +1,42 @@
+PODS:
+  - Alamofire (5.4.4)
+  - Haptica (3.0.2)
+  - Hue (5.0.0)
+  - MapleBacon (6.1.1)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - SkeletonView (1.25.1)
+  - SwiftyUtils (5.2.0)
+
+DEPENDENCIES:
+  - Haptica
+  - Hue
+  - MapleBacon
+  - Moya (~> 15.0)
+  - SkeletonView
+  - SwiftyUtils
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Haptica
+    - Hue
+    - MapleBacon
+    - Moya
+    - SkeletonView
+    - SwiftyUtils
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  Haptica: dc206651beeca25ab4744c633fbf0ae4d1e86baf
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  MapleBacon: 05a421f5136fa2a75c6f94d0d617a9520534f220
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  SkeletonView: 77079530e1348a72f48b79ae30dcb966c1b18b6a
+  SwiftyUtils: 4c99e810e769063dbd5d4e83b486961a5d470aeb
+
+PODFILE CHECKSUM: ff27620bd9b8bbd15107bea574e20fb0d8bda947
+
+COCOAPODS: 1.11.2
